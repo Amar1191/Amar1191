@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amarnath
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning in Artificial Intelligence and Machine Learning in CIT Coimbatore
+- 🌱 I’m currently pursuing Artificial Intelligence and Machine Learning in CIT Coimbatore
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 How to reach me amarnath.k1191@gmail.com
 
